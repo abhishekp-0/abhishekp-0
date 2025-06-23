@@ -12,9 +12,9 @@ I'm a computer engineering student passionate about developing full-stack AI-bas
 
 *   [**Pop to the Top:**](https://abhinav-s.itch.io/pop-to-the-top) My submission for the Global Game Jam.
 *   [**Planet Buster:**](https://abhinav-s.itch.io/planet-busters) Awarded 3rd position in a game jam at IIIT Nagpur.
-*   [**GitHub Profile Viewer:**](https://github.com/abhishekp-0/GithubProfileViewer)
-*   [**CV Building App:**](https://github.com/abhishekp-0/cv-app)
-*   **VR Desert Simulation:**
+*   [**GitHub Profile Viewer**](https://github.com/abhishekp-0/GithubProfileViewer)
+*   [**CV Building App**](https://github.com/abhishekp-0/cv-app)
+*   **VR Desert Simulation**
 
 ## 🔗 Let's Connect
 
