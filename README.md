@@ -22,6 +22,6 @@ I'm a computer engineering student passionate about developing full-stack AI-bas
 
 ## 🚀 About Me
 
-"Always learning, always building" - that's my motto! I'm always eager to explore new technologies and create innovative solutions. I'm particularly fascinated by the potential of AI and XR to create positive change in the world.
+I'm always eager to explore new technologies and create innovative solutions. I'm particularly fascinated by the potential of AI and XR to create positive change in the world.
 
 I'm also a huge gaming enthusiast and believe in the power of interactive experiences to educate, entertain, and connect people.
